@@ -6,8 +6,8 @@ virginia_data = (
     # Alexandria County
     ("Alexandria", [
         ("Braddock Road", "Alexandria"),
-        ("Eisenhower Avenue", "Alexandria"),
-        ("King Street–Old Town", "Alexandria"),
+        ("Eisenhower Ave", "Alexandria"),
+        ("King St-Old Town", "Alexandria"),
         ("Potomac Yard", "Alexandria"),
         ("Van Dorn Street", "Alexandria"),
     ]),
@@ -23,7 +23,7 @@ virginia_data = (
         ("Pentagon", "Arlington County"),
         ("Pentagon City", "Arlington County"),
         ("Ronald Reagan Washington National Airport", "Arlington County"),
-        ("Virginia Square–GMU", "Arlington County"),
+        ("Virginia Sq-GMU", "Arlington County"),
         ("Rosslyn", "Arlington County"),
     ]),
 
@@ -52,7 +52,6 @@ virginia_data = (
     ]),
 )
 
-
 maryland_data = (
     # Montgomery County
     ("Montgomery County", [
@@ -60,6 +59,7 @@ maryland_data = (
         ("Glenmont", "Montgomery County"),
         ("Grosvenor–Strathmore", "Montgomery County"),
         ("Medical Center", "Montgomery County"),
+        ("Bethesda", "Montgomery County"),
         ("North Bethesda", "Montgomery County"),
         ("Rockville", "Montgomery County"),
         ("Shady Grove", "Montgomery County"),
@@ -80,10 +80,10 @@ maryland_data = (
         ("Morgan Boulevard", "Prince George's County"),
         ("Naylor Road", "Prince George's County"),
         ("New Carrollton", "Prince George's County"),
-        ("Southern Avenue", "Prince George's County"),
+        ("Southern Ave", "Prince George's County"),
         ("Suitland", "Prince George's County"),
         ("West Hyattsville", "Prince George's County"),
-        ("Branch Avenue", "Suitland, Maryland")
+        ("Branch Ave", "Suitland, Maryland")
     ])
 )
 
@@ -124,15 +124,15 @@ dc_data = (
         ("Georgia Avenue–Petworth", "District of Columbia"),
         ("Judiciary Square", "District of Columbia"),
         ("L'Enfant Plaza", "District of Columbia"),
-        ("McPherson Square", "District of Columbia"),
+        ("McPherson Sq", "District of Columbia"),
         ("Metro Center", "District of Columbia"),
         ("Minnesota Avenue", "District of Columbia"),
-        ("Mount Vernon Square", "District of Columbia"),
+        ("Mt Vernon Sq", "District of Columbia"),
         ("Navy Yard–Ballpark", "District of Columbia"),
         ("NoMa–Gallaudet U", "District of Columbia"),
-        ("Potomac Avenue", "District of Columbia"),
-        ("Rhode Island Avenue", "District of Columbia"),
-        ("Shaw–Howard University", "District of Columbia"),
+        ("Potomac Ave", "District of Columbia"),
+        ("Rhode Island Ave", "District of Columbia"),
+        ("Shaw-Howard U", "District of Columbia"),
         ("Smithsonian", "District of Columbia"),
         ("Stadium–Armory", "District of Columbia"),
         ("Takoma", "District of Columbia"),
@@ -147,13 +147,3 @@ dc_data = (
 
 # Combine all nested tuples into one list for looping
 all_data = list(virginia_data) + list(maryland_data) + list(dc_data)
-
-def get_county(station_name):
-    """
-    Given a station name, returns the county/district it belongs to.
-    If not found, returns None.
-    """
-    for county, stations in all_data:
-        if station_name in stations:
-            return county
-    return None

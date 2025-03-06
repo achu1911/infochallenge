@@ -1,0 +1,491 @@
+Station Name,Time Period,Avg Daily Entries
+Addison Road,AM Peak (Open-9:30am),1.0
+Addison Road,Midday (9:30am-3pm),0.4
+Addison Road,Late Night (12am-Close),0.0
+Addison Road,PM Peak (3pm-7pm),0.2
+Addison Road,Evening (7pm-12am),0.1
+Anacostia,AM Peak (Open-9:30am),1.8
+Anacostia,Midday (9:30am-3pm),1.2
+Anacostia,PM Peak (3pm-7pm),1.4
+Anacostia,Late Night (12am-Close),0.0
+Anacostia,Evening (7pm-12am),0.3
+Archives,Evening (7pm-12am),0.7
+Archives,AM Peak (Open-9:30am),0.2
+Archives,PM Peak (3pm-7pm),3.6
+Archives,Midday (9:30am-3pm),1.1
+Archives,Late Night (12am-Close),0.0
+Arlington Cemetery,AM Peak (Open-9:30am),0.0
+Arlington Cemetery,Midday (9:30am-3pm),0.1
+Arlington Cemetery,Late Night (12am-Close),0.0
+Arlington Cemetery,Evening (7pm-12am),0.0
+Arlington Cemetery,PM Peak (3pm-7pm),0.1
+Ashburn,Midday (9:30am-3pm),0.2
+Ashburn,PM Peak (3pm-7pm),0.2
+Ashburn,AM Peak (Open-9:30am),1.2
+Ashburn,Evening (7pm-12am),0.0
+Ashburn,Late Night (12am-Close),0.0
+Ballston-MU,PM Peak (3pm-7pm),2.3
+Ballston-MU,Evening (7pm-12am),0.7
+Ballston-MU,Late Night (12am-Close),0.0
+Ballston-MU,AM Peak (Open-9:30am),2.8
+Ballston-MU,Midday (9:30am-3pm),1.3
+Benning Road,Midday (9:30am-3pm),0.5
+Benning Road,Evening (7pm-12am),0.1
+Benning Road,AM Peak (Open-9:30am),1.2
+Benning Road,PM Peak (3pm-7pm),0.4
+Benning Road,Late Night (12am-Close),0.0
+Bethesda,Evening (7pm-12am),0.6
+Bethesda,Midday (9:30am-3pm),1.2
+Bethesda,AM Peak (Open-9:30am),2.1
+Bethesda,PM Peak (3pm-7pm),2.1
+Bethesda,Late Night (12am-Close),0.0
+Braddock Road,PM Peak (3pm-7pm),0.6
+Braddock Road,Evening (7pm-12am),0.1
+Braddock Road,AM Peak (Open-9:30am),1.5
+Braddock Road,Late Night (12am-Close),0.0
+Braddock Road,Midday (9:30am-3pm),0.5
+Branch Ave,Midday (9:30am-3pm),0.5
+Branch Ave,Late Night (12am-Close),0.0
+Branch Ave,PM Peak (3pm-7pm),0.2
+Branch Ave,Evening (7pm-12am),0.1
+Branch Ave,AM Peak (Open-9:30am),2.2
+Brookland-CUA,AM Peak (Open-9:30am),1.8
+Brookland-CUA,Midday (9:30am-3pm),1.2
+Brookland-CUA,PM Peak (3pm-7pm),1.7
+Brookland-CUA,Late Night (12am-Close),0.0
+Brookland-CUA,Evening (7pm-12am),0.3
+Capitol Heights,Midday (9:30am-3pm),0.3
+Capitol Heights,PM Peak (3pm-7pm),0.3
+Capitol Heights,Evening (7pm-12am),0.1
+Capitol Heights,Late Night (12am-Close),0.0
+Capitol Heights,AM Peak (Open-9:30am),1.0
+Capitol South,Midday (9:30am-3pm),1.2
+Capitol South,Late Night (12am-Close),0.0
+Capitol South,Evening (7pm-12am),0.7
+Capitol South,AM Peak (Open-9:30am),0.8
+Capitol South,PM Peak (3pm-7pm),3.3
+Cheverly,AM Peak (Open-9:30am),0.4
+Cheverly,Evening (7pm-12am),0.0
+Cheverly,Midday (9:30am-3pm),0.2
+Cheverly,PM Peak (3pm-7pm),0.1
+Cheverly,Late Night (12am-Close),0.0
+Clarendon,Midday (9:30am-3pm),0.7
+Clarendon,AM Peak (Open-9:30am),1.4
+Clarendon,Late Night (12am-Close),0.0
+Clarendon,PM Peak (3pm-7pm),0.9
+Clarendon,Evening (7pm-12am),0.5
+Cleveland Park,Midday (9:30am-3pm),0.8
+Cleveland Park,AM Peak (Open-9:30am),1.2
+Cleveland Park,Evening (7pm-12am),0.3
+Cleveland Park,PM Peak (3pm-7pm),0.7
+Cleveland Park,Late Night (12am-Close),0.0
+College Park-U of Md,Evening (7pm-12am),0.2
+College Park-U of Md,PM Peak (3pm-7pm),0.7
+College Park-U of Md,Midday (9:30am-3pm),0.4
+College Park-U of Md,AM Peak (Open-9:30am),0.9
+College Park-U of Md,Late Night (12am-Close),0.0
+Columbia Heights,Midday (9:30am-3pm),2.3
+Columbia Heights,Late Night (12am-Close),0.0
+Columbia Heights,PM Peak (3pm-7pm),3.4
+Columbia Heights,AM Peak (Open-9:30am),2.9
+Columbia Heights,Evening (7pm-12am),1.0
+Congress Heights,AM Peak (Open-9:30am),0.8
+Congress Heights,Evening (7pm-12am),0.1
+Congress Heights,Late Night (12am-Close),0.0
+Congress Heights,PM Peak (3pm-7pm),0.3
+Congress Heights,Midday (9:30am-3pm),0.4
+Court House,AM Peak (Open-9:30am),2.1
+Court House,Midday (9:30am-3pm),1.0
+Court House,PM Peak (3pm-7pm),1.1
+Court House,Evening (7pm-12am),0.4
+Court House,Late Night (12am-Close),0.0
+Crystal City,PM Peak (3pm-7pm),2.4
+Crystal City,Midday (9:30am-3pm),1.3
+Crystal City,AM Peak (Open-9:30am),2.1
+Crystal City,Evening (7pm-12am),0.5
+Crystal City,Late Night (12am-Close),0.0
+Deanwood,AM Peak (Open-9:30am),0.5
+Deanwood,Evening (7pm-12am),0.1
+Deanwood,Late Night (12am-Close),0.0
+Deanwood,PM Peak (3pm-7pm),0.3
+Deanwood,Midday (9:30am-3pm),0.3
+Downtown Largo,PM Peak (3pm-7pm),0.3
+Downtown Largo,Evening (7pm-12am),0.1
+Downtown Largo,Late Night (12am-Close),0.0
+Downtown Largo,AM Peak (Open-9:30am),1.8
+Downtown Largo,Midday (9:30am-3pm),0.4
+Dulles Airport,AM Peak (Open-9:30am),0.4
+Dulles Airport,Midday (9:30am-3pm),0.5
+Dulles Airport,PM Peak (3pm-7pm),1.0
+Dulles Airport,Late Night (12am-Close),0.0
+Dulles Airport,Evening (7pm-12am),0.5
+Dunn Loring,Midday (9:30am-3pm),0.4
+Dunn Loring,Evening (7pm-12am),0.1
+Dunn Loring,PM Peak (3pm-7pm),0.5
+Dunn Loring,Late Night (12am-Close),0.0
+Dunn Loring,AM Peak (Open-9:30am),1.2
+Dupont Circle,PM Peak (3pm-7pm),5.3
+Dupont Circle,Evening (7pm-12am),2.4
+Dupont Circle,Midday (9:30am-3pm),2.5
+Dupont Circle,Late Night (12am-Close),0.0
+Dupont Circle,AM Peak (Open-9:30am),2.6
+East Falls Church,Evening (7pm-12am),0.1
+East Falls Church,AM Peak (Open-9:30am),1.8
+East Falls Church,PM Peak (3pm-7pm),0.5
+East Falls Church,Late Night (12am-Close),0.0
+East Falls Church,Midday (9:30am-3pm),0.6
+Eastern Market,PM Peak (3pm-7pm),1.2
+Eastern Market,Late Night (12am-Close),0.0
+Eastern Market,Midday (9:30am-3pm),1.0
+Eastern Market,AM Peak (Open-9:30am),1.5
+Eastern Market,Evening (7pm-12am),0.6
+Eisenhower Ave,PM Peak (3pm-7pm),0.4
+Eisenhower Ave,Evening (7pm-12am),0.1
+Eisenhower Ave,AM Peak (Open-9:30am),0.7
+Eisenhower Ave,Late Night (12am-Close),0.0
+Eisenhower Ave,Midday (9:30am-3pm),0.3
+Farragut North,Evening (7pm-12am),2.2
+Farragut North,AM Peak (Open-9:30am),0.7
+Farragut North,PM Peak (3pm-7pm),8.9
+Farragut North,Midday (9:30am-3pm),2.3
+Farragut North,Late Night (12am-Close),0.0
+Farragut West,Evening (7pm-12am),1.8
+Farragut West,Late Night (12am-Close),0.0
+Farragut West,Midday (9:30am-3pm),2.1
+Farragut West,AM Peak (Open-9:30am),0.9
+Farragut West,PM Peak (3pm-7pm),7.8
+Federal Center SW,Late Night (12am-Close),0.0
+Federal Center SW,AM Peak (Open-9:30am),0.2
+Federal Center SW,Midday (9:30am-3pm),0.6
+Federal Center SW,PM Peak (3pm-7pm),2.2
+Federal Center SW,Evening (7pm-12am),0.2
+Federal Triangle,Midday (9:30am-3pm),1.0
+Federal Triangle,PM Peak (3pm-7pm),3.7
+Federal Triangle,Evening (7pm-12am),0.5
+Federal Triangle,Late Night (12am-Close),0.0
+Federal Triangle,AM Peak (Open-9:30am),0.1
+Foggy Bottom-GWU,PM Peak (3pm-7pm),8.3
+Foggy Bottom-GWU,Late Night (12am-Close),0.0
+Foggy Bottom-GWU,AM Peak (Open-9:30am),1.7
+Foggy Bottom-GWU,Midday (9:30am-3pm),2.9
+Foggy Bottom-GWU,Evening (7pm-12am),3.0
+Forest Glen,Midday (9:30am-3pm),0.3
+Forest Glen,AM Peak (Open-9:30am),1.0
+Forest Glen,Evening (7pm-12am),0.1
+Forest Glen,PM Peak (3pm-7pm),0.2
+Forest Glen,Late Night (12am-Close),0.0
+Fort Totten,Late Night (12am-Close),0.0
+Fort Totten,Midday (9:30am-3pm),1.9
+Fort Totten,PM Peak (3pm-7pm),1.9
+Fort Totten,Evening (7pm-12am),0.5
+Fort Totten,AM Peak (Open-9:30am),3.5
+Franconia-Springfield,AM Peak (Open-9:30am),2.2
+Franconia-Springfield,Late Night (12am-Close),0.0
+Franconia-Springfield,Evening (7pm-12am),0.1
+Franconia-Springfield,PM Peak (3pm-7pm),0.6
+Franconia-Springfield,Midday (9:30am-3pm),0.7
+Friendship Heights,Evening (7pm-12am),0.4
+Friendship Heights,PM Peak (3pm-7pm),1.4
+Friendship Heights,Late Night (12am-Close),0.0
+Friendship Heights,Midday (9:30am-3pm),1.3
+Friendship Heights,AM Peak (Open-9:30am),1.6
+Gallery Place,PM Peak (3pm-7pm),7.1
+Gallery Place,AM Peak (Open-9:30am),1.2
+Gallery Place,Late Night (12am-Close),0.0
+Gallery Place,Midday (9:30am-3pm),2.6
+Gallery Place,Evening (7pm-12am),4.1
+Georgia Ave-Petworth,Midday (9:30am-3pm),1.4
+Georgia Ave-Petworth,Late Night (12am-Close),0.0
+Georgia Ave-Petworth,PM Peak (3pm-7pm),1.4
+Georgia Ave-Petworth,AM Peak (Open-9:30am),2.1
+Georgia Ave-Petworth,Evening (7pm-12am),0.4
+Glenmont,PM Peak (3pm-7pm),0.4
+Glenmont,AM Peak (Open-9:30am),2.4
+Glenmont,Midday (9:30am-3pm),0.7
+Glenmont,Evening (7pm-12am),0.1
+Glenmont,Late Night (12am-Close),0.0
+Greenbelt,Midday (9:30am-3pm),0.6
+Greenbelt,Evening (7pm-12am),0.2
+Greenbelt,Late Night (12am-Close),0.0
+Greenbelt,PM Peak (3pm-7pm),0.5
+Greenbelt,AM Peak (Open-9:30am),2.1
+Greensboro,Evening (7pm-12am),0.1
+Greensboro,AM Peak (Open-9:30am),0.3
+Greensboro,Midday (9:30am-3pm),0.2
+Greensboro,PM Peak (3pm-7pm),0.6
+Greensboro,Late Night (12am-Close),0.0
+Grosvenor-Strathmore,Evening (7pm-12am),0.2
+Grosvenor-Strathmore,AM Peak (Open-9:30am),1.8
+Grosvenor-Strathmore,Midday (9:30am-3pm),0.6
+Grosvenor-Strathmore,PM Peak (3pm-7pm),0.4
+Grosvenor-Strathmore,Late Night (12am-Close),0.0
+Herndon,PM Peak (3pm-7pm),0.1
+Herndon,Midday (9:30am-3pm),0.2
+Herndon,Late Night (12am-Close),0.0
+Herndon,Evening (7pm-12am),0.0
+Herndon,AM Peak (Open-9:30am),0.7
+Huntington,Late Night (12am-Close),0.0
+Huntington,PM Peak (3pm-7pm),0.4
+Huntington,Evening (7pm-12am),0.1
+Huntington,Midday (9:30am-3pm),0.7
+Huntington,AM Peak (Open-9:30am),2.6
+Hyattsville Crossing,Evening (7pm-12am),0.2
+Hyattsville Crossing,PM Peak (3pm-7pm),0.7
+Hyattsville Crossing,Late Night (12am-Close),0.0
+Hyattsville Crossing,AM Peak (Open-9:30am),1.5
+Hyattsville Crossing,Midday (9:30am-3pm),0.8
+Innovation Center,AM Peak (Open-9:30am),0.5
+Innovation Center,Late Night (12am-Close),0.0
+Innovation Center,Midday (9:30am-3pm),0.2
+Innovation Center,Evening (7pm-12am),0.0
+Innovation Center,PM Peak (3pm-7pm),0.2
+Judiciary Square,AM Peak (Open-9:30am),0.4
+Judiciary Square,Late Night (12am-Close),0.0
+Judiciary Square,Midday (9:30am-3pm),1.1
+Judiciary Square,Evening (7pm-12am),0.6
+Judiciary Square,PM Peak (3pm-7pm),2.9
+King St-Old Town,AM Peak (Open-9:30am),1.6
+King St-Old Town,Midday (9:30am-3pm),0.9
+King St-Old Town,PM Peak (3pm-7pm),1.1
+King St-Old Town,Evening (7pm-12am),0.4
+King St-Old Town,Late Night (12am-Close),0.0
+L'Enfant Plaza,Midday (9:30am-3pm),2.3
+L'Enfant Plaza,Evening (7pm-12am),1.2
+L'Enfant Plaza,AM Peak (Open-9:30am),1.6
+L'Enfant Plaza,PM Peak (3pm-7pm),7.0
+L'Enfant Plaza,Late Night (12am-Close),0.1
+Landover,PM Peak (3pm-7pm),0.1
+Landover,Evening (7pm-12am),0.0
+Landover,Midday (9:30am-3pm),0.3
+Landover,Late Night (12am-Close),0.0
+Landover,AM Peak (Open-9:30am),0.8
+Loudoun Gateway,Evening (7pm-12am),0.0
+Loudoun Gateway,Late Night (12am-Close),0.0
+Loudoun Gateway,PM Peak (3pm-7pm),0.1
+Loudoun Gateway,AM Peak (Open-9:30am),0.2
+Loudoun Gateway,Midday (9:30am-3pm),0.1
+McLean,AM Peak (Open-9:30am),0.5
+McLean,Late Night (12am-Close),0.0
+McLean,Midday (9:30am-3pm),0.4
+McLean,Evening (7pm-12am),0.2
+McLean,PM Peak (3pm-7pm),1.7
+McPherson Sq,Late Night (12am-Close),0.0
+McPherson Sq,Midday (9:30am-3pm),1.7
+McPherson Sq,Evening (7pm-12am),1.3
+McPherson Sq,AM Peak (Open-9:30am),1.4
+McPherson Sq,PM Peak (3pm-7pm),4.9
+Medical Center,Late Night (12am-Close),0.0
+Medical Center,AM Peak (Open-9:30am),0.6
+Medical Center,Midday (9:30am-3pm),0.6
+Medical Center,PM Peak (3pm-7pm),2.2
+Medical Center,Evening (7pm-12am),0.3
+Metro Center,Evening (7pm-12am),3.6
+Metro Center,AM Peak (Open-9:30am),1.2
+Metro Center,Midday (9:30am-3pm),2.9
+Metro Center,PM Peak (3pm-7pm),10.1
+Metro Center,Late Night (12am-Close),0.0
+Minnesota Ave,Midday (9:30am-3pm),0.5
+Minnesota Ave,PM Peak (3pm-7pm),0.5
+Minnesota Ave,AM Peak (Open-9:30am),0.7
+Minnesota Ave,Late Night (12am-Close),0.0
+Minnesota Ave,Evening (7pm-12am),0.1
+Morgan Boulevard,PM Peak (3pm-7pm),0.1
+Morgan Boulevard,Evening (7pm-12am),0.0
+Morgan Boulevard,Midday (9:30am-3pm),0.2
+Morgan Boulevard,Late Night (12am-Close),0.0
+Morgan Boulevard,AM Peak (Open-9:30am),0.7
+Mt Vernon Sq,Evening (7pm-12am),0.7
+Mt Vernon Sq,Late Night (12am-Close),0.0
+Mt Vernon Sq,AM Peak (Open-9:30am),1.0
+Mt Vernon Sq,PM Peak (3pm-7pm),1.5
+Mt Vernon Sq,Midday (9:30am-3pm),0.8
+Navy Yard-Ballpark,Evening (7pm-12am),1.1
+Navy Yard-Ballpark,AM Peak (Open-9:30am),2.3
+Navy Yard-Ballpark,PM Peak (3pm-7pm),3.6
+Navy Yard-Ballpark,Late Night (12am-Close),0.0
+Navy Yard-Ballpark,Midday (9:30am-3pm),1.4
+Naylor Road,AM Peak (Open-9:30am),0.9
+Naylor Road,Evening (7pm-12am),0.1
+Naylor Road,Late Night (12am-Close),0.0
+Naylor Road,Midday (9:30am-3pm),0.3
+Naylor Road,PM Peak (3pm-7pm),0.2
+New Carrollton,Evening (7pm-12am),0.2
+New Carrollton,Midday (9:30am-3pm),0.8
+New Carrollton,AM Peak (Open-9:30am),2.4
+New Carrollton,PM Peak (3pm-7pm),0.5
+New Carrollton,Late Night (12am-Close),0.0
+NoMa-Gallaudet U,PM Peak (3pm-7pm),4.5
+NoMa-Gallaudet U,Evening (7pm-12am),1.2
+NoMa-Gallaudet U,Late Night (12am-Close),0.0
+NoMa-Gallaudet U,AM Peak (Open-9:30am),4.2
+NoMa-Gallaudet U,Midday (9:30am-3pm),2.5
+North Bethesda,Late Night (12am-Close),0.0
+North Bethesda,Evening (7pm-12am),0.2
+North Bethesda,AM Peak (Open-9:30am),1.0
+North Bethesda,Midday (9:30am-3pm),0.5
+North Bethesda,PM Peak (3pm-7pm),0.6
+Pentagon,Midday (9:30am-3pm),1.8
+Pentagon,Evening (7pm-12am),0.2
+Pentagon,AM Peak (Open-9:30am),2.8
+Pentagon,Late Night (12am-Close),0.0
+Pentagon,PM Peak (3pm-7pm),4.9
+Pentagon City,Midday (9:30am-3pm),2.2
+Pentagon City,PM Peak (3pm-7pm),2.8
+Pentagon City,Evening (7pm-12am),1.0
+Pentagon City,Late Night (12am-Close),0.0
+Pentagon City,AM Peak (Open-9:30am),3.0
+Potomac Ave,Late Night (12am-Close),0.0
+Potomac Ave,Midday (9:30am-3pm),0.7
+Potomac Ave,Evening (7pm-12am),0.2
+Potomac Ave,PM Peak (3pm-7pm),0.6
+Potomac Ave,AM Peak (Open-9:30am),1.5
+Potomac Yard,Late Night (12am-Close),0.0
+Potomac Yard,Evening (7pm-12am),0.1
+Potomac Yard,Midday (9:30am-3pm),0.3
+Potomac Yard,PM Peak (3pm-7pm),0.5
+Potomac Yard,AM Peak (Open-9:30am),0.9
+Reston Town Center,Midday (9:30am-3pm),0.2
+Reston Town Center,Evening (7pm-12am),0.1
+Reston Town Center,Late Night (12am-Close),0.0
+Reston Town Center,AM Peak (Open-9:30am),0.4
+Reston Town Center,PM Peak (3pm-7pm),0.4
+Rhode Island Ave,Late Night (12am-Close),0.0
+Rhode Island Ave,AM Peak (Open-9:30am),2.1
+Rhode Island Ave,Midday (9:30am-3pm),1.4
+Rhode Island Ave,Evening (7pm-12am),0.5
+Rhode Island Ave,PM Peak (3pm-7pm),1.1
+Rockville,Evening (7pm-12am),0.2
+Rockville,AM Peak (Open-9:30am),1.3
+Rockville,Late Night (12am-Close),0.0
+Rockville,Midday (9:30am-3pm),0.6
+Rockville,PM Peak (3pm-7pm),0.6
+Ronald Reagan Washington National Airport,PM Peak (3pm-7pm),1.9
+Ronald Reagan Washington National Airport,Late Night (12am-Close),0.0
+Ronald Reagan Washington National Airport,Midday (9:30am-3pm),2.0
+Ronald Reagan Washington National Airport,Evening (7pm-12am),1.6
+Ronald Reagan Washington National Airport,AM Peak (Open-9:30am),0.7
+Rosslyn,PM Peak (3pm-7pm),3.8
+Rosslyn,Late Night (12am-Close),0.0
+Rosslyn,AM Peak (Open-9:30am),2.2
+Rosslyn,Evening (7pm-12am),0.8
+Rosslyn,Midday (9:30am-3pm),1.9
+Shady Grove,Late Night (12am-Close),0.0
+Shady Grove,AM Peak (Open-9:30am),4.5
+Shady Grove,Evening (7pm-12am),0.2
+Shady Grove,PM Peak (3pm-7pm),0.9
+Shady Grove,Midday (9:30am-3pm),1.3
+Shaw-Howard U,Late Night (12am-Close),0.0
+Shaw-Howard U,PM Peak (3pm-7pm),1.6
+Shaw-Howard U,AM Peak (Open-9:30am),1.1
+Shaw-Howard U,Midday (9:30am-3pm),0.9
+Shaw-Howard U,Evening (7pm-12am),0.6
+Silver Spring,AM Peak (Open-9:30am),3.0
+Silver Spring,Evening (7pm-12am),0.5
+Silver Spring,Midday (9:30am-3pm),1.5
+Silver Spring,PM Peak (3pm-7pm),1.7
+Silver Spring,Late Night (12am-Close),0.0
+Smithsonian,Evening (7pm-12am),0.3
+Smithsonian,PM Peak (3pm-7pm),2.2
+Smithsonian,AM Peak (Open-9:30am),0.2
+Smithsonian,Midday (9:30am-3pm),0.9
+Smithsonian,Late Night (12am-Close),0.0
+Southern Ave,Evening (7pm-12am),0.1
+Southern Ave,AM Peak (Open-9:30am),1.7
+Southern Ave,Midday (9:30am-3pm),0.5
+Southern Ave,Late Night (12am-Close),0.0
+Southern Ave,PM Peak (3pm-7pm),0.3
+Spring Hill,AM Peak (Open-9:30am),0.2
+Spring Hill,Midday (9:30am-3pm),0.2
+Spring Hill,Evening (7pm-12am),0.1
+Spring Hill,PM Peak (3pm-7pm),0.2
+Spring Hill,Late Night (12am-Close),0.0
+Stadium-Armory,PM Peak (3pm-7pm),0.7
+Stadium-Armory,Midday (9:30am-3pm),0.6
+Stadium-Armory,Evening (7pm-12am),0.1
+Stadium-Armory,Late Night (12am-Close),0.0
+Stadium-Armory,AM Peak (Open-9:30am),0.8
+Suitland,PM Peak (3pm-7pm),0.4
+Suitland,Late Night (12am-Close),0.0
+Suitland,Midday (9:30am-3pm),0.6
+Suitland,Evening (7pm-12am),0.1
+Suitland,AM Peak (Open-9:30am),1.6
+Takoma,Late Night (12am-Close),0.0
+Takoma,AM Peak (Open-9:30am),2.1
+Takoma,Midday (9:30am-3pm),0.9
+Takoma,PM Peak (3pm-7pm),1.2
+Takoma,Evening (7pm-12am),0.2
+Tenleytown-AU,Midday (9:30am-3pm),1.3
+Tenleytown-AU,Evening (7pm-12am),0.9
+Tenleytown-AU,Late Night (12am-Close),0.0
+Tenleytown-AU,AM Peak (Open-9:30am),1.3
+Tenleytown-AU,PM Peak (3pm-7pm),2.1
+Twinbrook,Evening (7pm-12am),0.1
+Twinbrook,Late Night (12am-Close),0.0
+Twinbrook,AM Peak (Open-9:30am),1.3
+Twinbrook,Midday (9:30am-3pm),0.6
+Twinbrook,PM Peak (3pm-7pm),0.6
+Tysons,Evening (7pm-12am),0.5
+Tysons,Late Night (12am-Close),0.0
+Tysons,AM Peak (Open-9:30am),0.4
+Tysons,PM Peak (3pm-7pm),1.1
+Tysons,Midday (9:30am-3pm),0.3
+U Street,PM Peak (3pm-7pm),1.5
+U Street,Late Night (12am-Close),0.0
+U Street,Midday (9:30am-3pm),1.0
+U Street,AM Peak (Open-9:30am),1.6
+U Street,Evening (7pm-12am),1.0
+Union Station,PM Peak (3pm-7pm),6.7
+Union Station,Midday (9:30am-3pm),3.6
+Union Station,Evening (7pm-12am),2.2
+Union Station,Late Night (12am-Close),0.0
+Union Station,AM Peak (Open-9:30am),5.9
+Van Dorn Street,Midday (9:30am-3pm),0.3
+Van Dorn Street,Evening (7pm-12am),0.1
+Van Dorn Street,Late Night (12am-Close),0.0
+Van Dorn Street,PM Peak (3pm-7pm),0.2
+Van Dorn Street,AM Peak (Open-9:30am),1.0
+Van Ness-UDC,AM Peak (Open-9:30am),1.4
+Van Ness-UDC,Evening (7pm-12am),0.3
+Van Ness-UDC,Midday (9:30am-3pm),1.1
+Van Ness-UDC,PM Peak (3pm-7pm),1.2
+Van Ness-UDC,Late Night (12am-Close),0.1
+Vienna,AM Peak (Open-9:30am),2.8
+Vienna,Evening (7pm-12am),0.2
+Vienna,PM Peak (3pm-7pm),0.6
+Vienna,Late Night (12am-Close),0.0
+Vienna,Midday (9:30am-3pm),0.9
+Virginia Sq-GMU,PM Peak (3pm-7pm),0.7
+Virginia Sq-GMU,Late Night (12am-Close),0.0
+Virginia Sq-GMU,AM Peak (Open-9:30am),1.3
+Virginia Sq-GMU,Midday (9:30am-3pm),0.6
+Virginia Sq-GMU,Evening (7pm-12am),0.2
+Waterfront,PM Peak (3pm-7pm),1.3
+Waterfront,Late Night (12am-Close),0.0
+Waterfront,AM Peak (Open-9:30am),1.2
+Waterfront,Midday (9:30am-3pm),0.9
+Waterfront,Evening (7pm-12am),0.6
+West Falls Church,Late Night (12am-Close),0.0
+West Falls Church,Evening (7pm-12am),0.0
+West Falls Church,AM Peak (Open-9:30am),1.0
+West Falls Church,Midday (9:30am-3pm),0.3
+West Falls Church,PM Peak (3pm-7pm),0.2
+West Hyattsville,Evening (7pm-12am),0.1
+West Hyattsville,Late Night (12am-Close),0.0
+West Hyattsville,Midday (9:30am-3pm),0.6
+West Hyattsville,AM Peak (Open-9:30am),1.7
+West Hyattsville,PM Peak (3pm-7pm),0.5
+Wheaton,Evening (7pm-12am),0.2
+Wheaton,Late Night (12am-Close),0.0
+Wheaton,Midday (9:30am-3pm),0.5
+Wheaton,PM Peak (3pm-7pm),0.5
+Wheaton,AM Peak (Open-9:30am),1.1
+Wiehle-Reston East,PM Peak (3pm-7pm),0.4
+Wiehle-Reston East,Midday (9:30am-3pm),0.3
+Wiehle-Reston East,AM Peak (Open-9:30am),1.1
+Wiehle-Reston East,Late Night (12am-Close),0.0
+Wiehle-Reston East,Evening (7pm-12am),0.1
+Woodley Park,Midday (9:30am-3pm),1.0
+Woodley Park,PM Peak (3pm-7pm),1.1
+Woodley Park,AM Peak (Open-9:30am),1.5
+Woodley Park,Evening (7pm-12am),0.3
+Woodley Park,Late Night (12am-Close),0.0
