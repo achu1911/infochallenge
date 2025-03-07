@@ -1,0 +1,9 @@
+First run cleaning.py, which will clean the datasets 
+
+Then run combining_files.py, which will combined all 4 csv files (for weekdays and weekends), into one file 
+
+Then run web_scraping.py, which scrapes all the jursidictions/regions from Wiki.
+
+Then sorting_stations.py, which assign each station to a region/jursidiction and group them. 
+
+Then run calculating_top.py, which will calculate the total_ridership_averages 

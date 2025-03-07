@@ -1,0 +1,27 @@
+Station Name,Avg Daily Entries,Time Period,Region
+King St-Old Town,16.9,AM Peak (Open-9:30am),Alexandria
+Braddock Road,10.4,AM Peak (Open-9:30am),Alexandria
+Van Dorn Street,6.7,AM Peak (Open-9:30am),Alexandria
+Pentagon,38.3,PM Peak (3pm-7pm),Arlington County
+Pentagon City,34.2,AM Peak (Open-9:30am),Arlington County
+Rosslyn,34.2,PM Peak (3pm-7pm),Arlington County
+Union Station,68.0,PM Peak (3pm-7pm),District of Columbia
+Metro Center,66.0,PM Peak (3pm-7pm),District of Columbia
+Foggy Bottom-GWU,62.6,PM Peak (3pm-7pm),District of Columbia
+Vienna,17.8,AM Peak (Open-9:30am),Fairfax County
+Huntington,15.5,AM Peak (Open-9:30am),Fairfax County
+Franconia-Springfield,14.9,AM Peak (Open-9:30am),Fairfax County
+Dulles Airport,8.7,PM Peak (3pm-7pm),Loudoun County
+Ashburn,6.7,AM Peak (Open-9:30am),Loudoun County
+Loudoun Gateway,1.5,AM Peak (Open-9:30am),Loudoun County
+Shady Grove,27.1,AM Peak (Open-9:30am),Montgomery County
+Bethesda,23.3,AM Peak (Open-9:30am),Montgomery County
+Silver Spring,19.0,AM Peak (Open-9:30am),Montgomery County
+New Carrollton,15.8,AM Peak (Open-9:30am),Prince George's County
+Greenbelt,14.2,AM Peak (Open-9:30am),Prince George's County
+Hyattsville Crossing,13.3,AM Peak (Open-9:30am),Prince George's County
+Brookland-CUA,19.8,AM Peak (Open-9:30am),"Washington, D.C. (northeast)"
+Benning Road,8.7,AM Peak (Open-9:30am),"Washington, D.C. (northeast)"
+Archives,22.7,PM Peak (3pm-7pm),"Washington, D.C. (northwest)"
+Anacostia,17.9,AM Peak (Open-9:30am),"Washington, D.C. (southeast)"
+

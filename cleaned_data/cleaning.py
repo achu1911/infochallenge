@@ -19,8 +19,8 @@ def clean_and_sort_csv(csv_folder, cleaned_folder):
         
         # Date from file name 
         name_parts = file_name.split('_')
-        month_name = name_parts[0]  # The full month name (e.g., December)
-        day_year = "_".join(name_parts[1:3])  # The 'DD_YYYY' part
+        month_name = name_parts[0]  
+        day_year = "_".join(name_parts[1:3]) 
         cleaned_file_name = f"cleaned_{month_name}_{day_year}"
         sorted_file_path = os.path.join(cleaned_folder, cleaned_file_name)
         df_sorted.to_csv(sorted_file_path, index=False)
